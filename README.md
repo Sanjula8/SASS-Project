@@ -1,5 +1,7 @@
 # SASS-Project
 
+![GitHub Logo](/img/screenshot-project.png)
+
 ## Deployment
 
 [Sass Project!](https://sanjula8.github.io/SASS-Project/)
@@ -11,3 +13,4 @@ Just a little project I did using SCSS and custom grid after following Jonas Sch
 -   Maybe add up-to-date responsiveness.
 -   Fix popup on smaller screens.
 -   Use different themes/colors.
+-   Fix navigation panel to include hamburger menu.
